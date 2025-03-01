@@ -44,7 +44,7 @@ This project involves analyzing intraday stock trading data and generating usefu
 
 10.Help to indentify there weak zone
 
-## This is my friend Ram Trading Records
+## This is My Friend Ram Singh Trading Records
 
 # Raw Data
 
