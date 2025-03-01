@@ -70,6 +70,6 @@ This project involves analyzing intraday stock trading data and generating usefu
 # PERSONAL RULES BOOK
 ![PERSONAL RULES BOOK](https://github.com/user-attachments/assets/4d531c51-5304-43ab-a17f-94a1bdc65f55)
 
+## Download the Stock Trading Dashboard
 
-
-
+You can download the Stock Trading Dashboard and if you want a Fresh New Template for yourself you can mail me on @Vivekkum0709@gmail.com
