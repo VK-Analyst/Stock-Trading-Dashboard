@@ -4,14 +4,23 @@ This project involves analyzing intraday stock trading data and generating usefu
 
 ## Problem that Every Trader faced if HE/SHE did not have good template
 1.Inconsistent Trade Documentation: Traders may forget critical details like entry/exit points and trade rationale without a structured template.
+
 2.Lack of Performance Tracking: Without a template, it’s difficult to track key metrics such as win rate, average profit/loss, and risk-reward ratio.
+
 3.Missed Insights from Past Trades: Traders fail to recognize patterns and trends in their trading without an organized format.
+
 4.Emotional Decision-Making: A lack of a template makes it harder to review emotional responses to trades, leading to impulsive decisions.
+
 5.Poor Risk Management: Without a clear template to log stop-losses, position sizes, and risk parameters, traders risk significant losses.
+
 6.Inefficient Trade Analysis: Traders waste time manually searching for trade history and analyzing performance without a structured template.
+
 7.Disorganization in Trade Log: Without a standardized format, trade logs become disorganized and difficult to follow.
+
 8.Difficulty in Improving Strategies: Without a template, tracking trade outcomes and metrics becomes harder, slowing the improvement of strategies.
+
 9.Missed Learning Opportunities: Without a comprehensive template, traders cannot properly analyze their mistakes or successes.
+
 10.Difficulty in Improving Mindset: Without a template, tracking trade outcomes and metrics becomes harder, slowing the improvement of Mindset.
 
 ## How My Template Helps:
