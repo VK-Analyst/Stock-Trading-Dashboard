@@ -25,14 +25,23 @@ This project involves analyzing intraday stock trading data and generating usefu
 
 ## How My Template Helps:
 1.Consistent Trade Logging: Keeps all trade details organized for easy review.
+
 2.Performance Tracking: Automatically tracks metrics like win rate, average profit/loss, and more.
+
 3.Actionable Insights: Helps identify patterns in your trading for strategy improvement.
+
 4.Emotional Awareness: Allows for reflection on emotional responses to trades.
+
 5.Improved Risk Management: Logs risk parameters to ensure disciplined trading.
+
 6.Efficient Analysis: Saves time by automatically tracking and organizing trades.
+
 7.Easy to Use: Provides a standardized format for simple trade log management.
+
 8.easy to Get there metrics data like win rate, profit/loss, and drawdown
+
 9.Help to build confidence in there startegies
+
 10.Help to indentify there weak zone
 
 ## This is my friend Ram Trading Records
