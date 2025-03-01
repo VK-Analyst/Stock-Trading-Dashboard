@@ -49,3 +49,27 @@ This project involves analyzing intraday stock trading data and generating usefu
 # Raw Data
 
 ![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
+
+##TEMPLATE
+
+# OVERALL
+![OVERALL]()
+
+# DIRECTION WISE
+![DIRECTION]()
+
+# STRATEGY WISE
+![STRATEGY]()
+
+# DAYS WISE
+![DAYS]()
+
+# TRADE ENTRY
+![TRADE ENTRY]()
+
+# PERSONAL RULES BOOK
+![PERSONAL RULES BOOK]()
+
+
+
+
