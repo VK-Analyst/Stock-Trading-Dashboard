@@ -45,4 +45,4 @@ This project involves analyzing intraday stock trading data and generating usefu
 10.Help to indentify there weak zone
 
 ## This is my friend Ram Trading Records
-Raw Data ()
+Raw Data (![Image](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff))
