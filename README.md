@@ -50,7 +50,7 @@ This project involves analyzing intraday stock trading data and generating usefu
 
 ![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
 
-##TEMPLATE
+#DASHBOARD
 
 # OVERALL
 ![OVERALL](https://github.com/user-attachments/assets/44856246-f782-46ba-9b70-f034af5f17da)
