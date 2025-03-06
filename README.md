@@ -23,7 +23,35 @@ This project involves analyzing intraday stock trading data and generating usefu
 
 10.Difficulty in Improving Mindset: Without a template, tracking trade outcomes and metrics becomes harder, slowing the improvement of Mindset.
 
+
+## This is My Friend Ram Singh Trading Records
+
+# Raw Data
+
+![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
+
+## THIS IS THE TRADING TEMPLATE
+
+# OVERALL
+![OVERALL](https://github.com/user-attachments/assets/44856246-f782-46ba-9b70-f034af5f17da)
+
+# DIRECTION WISE
+![DIRECTION](https://github.com/user-attachments/assets/ae8f2b7e-10e0-4d6a-92d3-145961528b93)
+
+# STRATEGY WISE
+![STRATEGY](https://github.com/user-attachments/assets/a548951f-1251-4df9-b36a-87cc465e49ff)
+
+# DAYS WISE
+![DAYS](https://github.com/user-attachments/assets/0dc855b1-ef7b-4468-a14c-1d60eb00b743)
+
+# TRADE ENTRY
+![TRADE ENTRY](https://github.com/user-attachments/assets/f1ba827d-94c7-449e-bd72-6cdeaf57e9c1)
+
+# PERSONAL RULES BOOK
+![PERSONAL RULES BOOK](https://github.com/user-attachments/assets/4d531c51-5304-43ab-a17f-94a1bdc65f55)
+
 ## How My Template Helps in Trading
+
 1.Consistent Trade Logging: Keeps all trade details organized for easy review.
 
 2.Performance Tracking: Automatically tracks metrics like win rate, average profit/loss, and more.
@@ -43,32 +71,6 @@ This project involves analyzing intraday stock trading data and generating usefu
 9.Help to build confidence in there startegies
 
 10.Help to indentify there weak zone
-
-## This is My Friend Ram Singh Trading Records
-
-# Raw Data
-
-![Raw data](https://github.com/user-attachments/assets/3094c9bd-9b40-4e7e-9d17-107dc6ba57ff)
-
-#DASHBOARD
-
-# OVERALL
-![OVERALL](https://github.com/user-attachments/assets/44856246-f782-46ba-9b70-f034af5f17da)
-
-# DIRECTION WISE
-![DIRECTION](https://github.com/user-attachments/assets/ae8f2b7e-10e0-4d6a-92d3-145961528b93)
-
-# STRATEGY WISE
-![STRATEGY](https://github.com/user-attachments/assets/a548951f-1251-4df9-b36a-87cc465e49ff)
-
-# DAYS WISE
-![DAYS](https://github.com/user-attachments/assets/0dc855b1-ef7b-4468-a14c-1d60eb00b743)
-
-# TRADE ENTRY
-![TRADE ENTRY](https://github.com/user-attachments/assets/f1ba827d-94c7-449e-bd72-6cdeaf57e9c1)
-
-# PERSONAL RULES BOOK
-![PERSONAL RULES BOOK](https://github.com/user-attachments/assets/4d531c51-5304-43ab-a17f-94a1bdc65f55)
 
 ## Download the Stock Trading Dashboard
 
