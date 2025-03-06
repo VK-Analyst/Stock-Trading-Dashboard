@@ -1,4 +1,4 @@
-# Stock-Trading-Dashboard
+# Stock-Trading-Template
 
 This project involves analyzing intraday stock trading data and generating useful insights for traders. The focus is on calculating key metrics like win rate, profit/loss, and drawdown. A trade analysis template is also included to help traders log and evaluate their trades.
 
@@ -74,6 +74,6 @@ This project involves analyzing intraday stock trading data and generating usefu
 10.Help to indentify there weak zone
 
 
-## Download the Stock Trading Dashboard
+## Download the Stock Trading Template
 
-You can download the Stock Trading Dashboard and if you want a Fresh New Template for yourself you can mail me on @Vivekkum0709@gmail.com
+You can download the Stock Trading Template and if you want a Fresh New Template for yourself you can mail me on @Vivekkum0709@gmail.com
