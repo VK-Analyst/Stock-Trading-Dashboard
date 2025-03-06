@@ -3,6 +3,7 @@
 This project involves analyzing intraday stock trading data and generating useful insights for traders. The focus is on calculating key metrics like win rate, profit/loss, and drawdown. A trade analysis template is also included to help traders log and evaluate their trades.
 
 ## Problem that Every Trader faced, If They did not have a good Template
+
 1.Inconsistent Trade Documentation: Traders may forget critical details like entry/exit points and trade rationale without a structured template.
 
 2.Lack of Performance Tracking: Without a template, it’s difficult to track key metrics such as win rate, average profit/loss, and risk-reward ratio.
@@ -24,7 +25,7 @@ This project involves analyzing intraday stock trading data and generating usefu
 10.Difficulty in Improving Mindset: Without a template, tracking trade outcomes and metrics becomes harder, slowing the improvement of Mindset.
 
 
-## This is My Friend Ram Singh Trading Records JournaL.
+## This is My Friend Ram Singh Trading Records Journal.
 
 # Raw Data
 
